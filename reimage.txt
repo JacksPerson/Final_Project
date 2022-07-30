@@ -1,0 +1,27 @@
+Machine:  SECOND RUN
+
+User: Barthauer, Kevin
+
+Last logged on user: KBarthauer
+
+Manager: Walls, Brent
+
+Source: FireEye
+
+Description: Severe virus infecton detected on host.  I have contained the unit and will have it reimaged.
+
+
+Severe Virus infection, warranting notification of reimage. Ticket number 4578864 has been entered by IOT. Due to the severity of virus activity the machine will be/nreimaged.  Internet traffic patterns suggest it is infected with a virus that cannot be cleaned by FireEye.  Any user of this computer should reset their network password
+immediately. (Password should be changed to something completely different from their old password -  ie, Do not simply append a number to the old password).
+(A support tech will be in contact with the user to have the machine reimaged under the request ticket number 4578864)
+
+Please speak with the employee in an attempt to discover the source of this infection.  Actions should be taken to remove this source.   Actions to be considered:
+1.            Restrict internet activity
+2.            Do not allow USB drives to be used on the machine
+3.            Education of employees on identification of spam email messages
+4.            Review of appropriate internet use
+5.            Discourage use of personal email (hotmail, gmail etc.) on state computers.
+
+Thank you for your assistance in this matter.
+
+IOT Security
